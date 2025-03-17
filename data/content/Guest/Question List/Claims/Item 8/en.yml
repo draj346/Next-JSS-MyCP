@@ -1,0 +1,10 @@
+id: item-1118
+displayName: How can I get a claim form
+template: banner-template
+fields:
+  Heading: How can I get a claim form?
+  id: item-1118
+  Description: |
+    <p>Most of the insurance documents we issue include a claim form, which is called a "Claimant's Statement For Life Insurance Death Benefits". If you do not already have this form you can<a href="/Get-a-Form" target="_self"> download one here</a>. If you are unable to download the form, please let us know by&nbsp;<a href="/Customer-Service" target="_self">telephone</a> and we will promptly send one to you.</p>
+    <p>Once you have downloaded the form, print it out, complete the form and&nbsp;<a href="#" data-bs-target="#collapse-item-1113" class="faq-jumplink">mail</a>&nbsp;it to the address shown.</p>
+    <p>NOTE: These forms are PDF files. In order to download and view any PDF files, you will need Acrobat Reader software. If you do not have Acrobat Reader and wish to download it for free, click&nbsp;<a rel="noopener noreferrer" href="https://get.adobe.com/reader/" target="_blank">here</a>&nbsp;to visit the Adobe Acrobat Reader website.</p>

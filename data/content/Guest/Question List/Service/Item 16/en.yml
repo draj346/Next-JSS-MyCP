@@ -1,0 +1,8 @@
+id: item-126
+displayName: Where can I go for more info
+template: banner-template
+fields:
+  Heading: I’m a Medicare Supplement Provider. Where can I go for more info about a Colonial Penn Medicare Supplement policy?
+  id: item-126
+  Description: |
+   <p>For Provider Services, please <a rel="noopener noreferrer" href="https://colpennproviders.bankers.com/web/colpenn/login" target="_blank">click here</a> for more information (for policies issued in 2010 and later).</p> 

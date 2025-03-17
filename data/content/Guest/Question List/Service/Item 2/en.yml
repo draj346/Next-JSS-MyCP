@@ -1,0 +1,13 @@
+id: item-112
+displayName: How do I change my payment method
+template: banner-template
+fields:
+  Heading: How do I change my payment method?
+  id: item-112
+  Description: |
+    <ul>
+        <li>To sign up online for automatic bank account deduction <a href="/Payment-Center/Electronic-Funds-Transfer" target="_self">click here</a>.</li>
+        <li>To download and mail us the automatic bank account deduction Authorization Form, <a href="/Get-a-Form" target="_self">click here</a>.</li>
+        <li>To request recurring credit card billing please<a href="/Customer-Service" target="_self"> call us</a> toll free.</li>
+        <li>To switch to direct bill, or for help selecting a billing plan that's right for you please <a href="/Customer-Service" target="_self">call us</a> toll free.</li>
+    </ul>

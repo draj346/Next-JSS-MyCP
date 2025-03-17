@@ -1,0 +1,8 @@
+id: item-127
+displayName: How do I report potential
+template: banner-template
+fields:
+  Heading: How do I report potential fraud regarding my policy?
+  id: item-127
+  Description: |
+   <p>Please <a href="/Customer-Service" target="_self">call us</a>&nbsp;and one of our Customer Service specialists can help you.</p> 

@@ -1,0 +1,8 @@
+id: item-4
+displayName: When can I contact you by phone
+template: banner-template
+fields:
+  Heading: When can I contact you by phone?
+  id: item-4
+  Description: |
+    <p>Our Customer Service Call Center hours are 8:30 AM to 5:30 PM ET, Monday-Friday.</p>

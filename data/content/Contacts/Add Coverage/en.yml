@@ -1,0 +1,12 @@
+id: phone-number-2
+displayName: Add Coverage
+template: contact-template
+fields:
+  Link:
+    title: Add Coverage
+    text: 1-877-877-8052
+    href: tel:+18778778052
+  Icon: 
+    src: /data/media/images/call-blue.svg
+    alt: call-phone
+  Heading: Phone

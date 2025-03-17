@@ -1,0 +1,8 @@
+id: item-121
+displayName: how can I get a copy of it
+template: banner-template
+fields:
+  Heading: I lost my policy, how can I get a copy of it?
+  id: item-121
+  Description: |
+   <p>Please send us your request in writing.</p>   

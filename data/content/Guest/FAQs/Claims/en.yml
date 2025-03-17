@@ -1,0 +1,16 @@
+id: item-faq-3
+displayName: Life Insurance Claims
+template: faq-template
+fields:
+  Name: Life Insurance Claims– Frequently Asked Questions
+  Key: insurance-claims-tab
+  Value: insurance-claims
+  Questions:
+    - id: item-1111
+    - id: item-1112
+    - id: item-1113
+    - id: item-1114
+    - id: item-1115
+    - id: item-1116
+    - id: item-1117
+    - id: item-1118

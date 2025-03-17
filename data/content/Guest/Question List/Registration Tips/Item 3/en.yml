@@ -1,0 +1,11 @@
+id: item-3
+displayName: When can I view my account information
+template: banner-template
+fields:
+  Heading: When can I view my account information?
+  id: item-3
+  Description: |
+    <p>Except during the 10:30 PM to 11:00 PM ET timeframe, your policy information can be viewed anytime.</p>
+    <p>Please note, due to system maintenance, your account may occasionally be temporarily unavailable, and you will see a message asking you to login at a later time.</p>
+    <p>Initial registration is not available between 10:30 PM and 11:30 PM ET</p>
+    <p><strong>Please note that you can pay your bill online at anytime</strong> - just click <a href="/Payment-Center" data-discover="true">Pay My Bill</a>.</p>

@@ -1,0 +1,9 @@
+id: header-links-4
+displayName: Payment Center
+template: submenu-template
+fields:
+  Link:
+    href: /payment-center
+    target: _self
+    text: Payment Center
+

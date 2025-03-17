@@ -1,0 +1,9 @@
+id: customer-service-3
+displayName: New York Residents
+template: customer-service-contact-template
+fields:
+  Title: New York Residents
+  Phone:
+    - id: phone-number-3
+  Hour:
+    - id: hour-1

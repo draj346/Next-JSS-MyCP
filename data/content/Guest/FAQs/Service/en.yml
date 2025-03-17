@@ -1,0 +1,25 @@
+id: item-faq-2
+displayName: Life Insurance Service
+template: faq-template
+fields:
+  Name: Life Insurance Service– Frequently Asked Questions
+  Key: life-insurance-tab
+  Value: life-insurance
+  Questions:
+    - id: item-111
+    - id: item-112
+    - id: item-113
+    - id: item-114
+    - id: item-115
+    - id: item-116
+    - id: item-117
+    - id: item-118
+    - id: item-119
+    - id: item-120
+    - id: item-121
+    - id: item-122
+    - id: item-123
+    - id: item-124
+    - id: item-125
+    - id: item-126
+    - id: item-127

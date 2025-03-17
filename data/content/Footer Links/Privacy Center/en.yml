@@ -1,0 +1,9 @@
+id: footer-links-1
+displayName: Privacy Center
+template: link-template
+fields:
+  Link:
+    href: https://colonialpenn.com/privacy
+    target: _blank
+    text: Privacy Center
+

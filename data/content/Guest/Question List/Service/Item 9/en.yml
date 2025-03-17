@@ -1,0 +1,8 @@
+id: item-119
+displayName: How do I change my beneficiary
+template: banner-template
+fields:
+  Heading: How do I change my beneficiary?
+  id: item-119
+  Description: |
+   <p>Most of the insurance documents we issue include a form. Just complete the form and <a data-bs-target="#collapse-item-113" href="#" class="faq-jumplink">mail it</a> to us. If you need a new form,&nbsp;<a href="/Customer-Service" target="_self">call us</a> toll free, or <a href="/Get-a-Form" target="_self">click here</a> to download the form.</p> 

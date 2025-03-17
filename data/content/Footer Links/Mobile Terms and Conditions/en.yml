@@ -1,0 +1,9 @@
+id: footer-links-3
+displayName: Mobile Terms and Conditions
+template: link-template
+fields:
+  Link:
+    href: https://colonialpenn.com/termsofuse
+    target: _blank
+    text: Mobile Terms and Conditions
+

@@ -1,0 +1,9 @@
+id: footer-links-2
+displayName: Terms and Conditions
+template: link-template
+fields:
+  Link:
+    href: https://colonialpenn.com/termsofuse
+    target: _blank
+    text: Terms and Conditions
+

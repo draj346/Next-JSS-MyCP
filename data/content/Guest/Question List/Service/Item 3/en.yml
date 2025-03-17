@@ -1,0 +1,41 @@
+id: item-113
+displayName: How do I contact you
+template: banner-template
+fields:
+  Heading: How do I contact you?
+  id: item-113
+  Description: |
+    <p>Confused about whether to call us, or write us?</p>
+    <p><strong>Please call us toll-free when:</strong></p>
+    <ul>
+        <li>you have questions about benefits or premium payments</li>
+        <li>you have a question about your coverage</li>
+        <li>you feel you can no longer keep your coverage active</li>
+        <li>you change your address</li>
+        <li>you want to request a form (some forms can be <a rel="noopener noreferrer" href="/Get-a-Form" target="_self">downloaded</a> from this site)</li>
+    </ul>
+    <p><strong>Our toll free customer service line is:</strong><br>
+    1-800-523-9100<br>
+    8:30 AM to 5:30 PM ET<br>
+    Monday - Friday</p>
+    <p><strong>New York policyholders, please call us toll free at:</strong><br>
+    1-800-323-4542<br>
+    8:30 AM to 5:30 PM ET<br>
+    Monday - Friday</p>
+    <p><strong>Please write us:</strong></p>
+    <ul>
+        <li>to request forms</li>
+        <li>to change your beneficiary (you can also&nbsp;<a rel="noopener noreferrer" href="/Get-a-Form" target="_self">download</a> the Change of Beneficiary Form from this website)</li>
+        <li>to notify us of the death of an insured</li>
+        <li>if you have lost your policy</li>
+    </ul>
+    <p><strong>Our mailing address is:</strong><br>
+    Colonial Penn Life Insurance Company<br>
+    Policyholder Services<br>
+    PO Box 1918<br>
+    Carmel, IN 46082-9903</p>
+    <p><strong>New York policyholders, please write to us at:</strong><br>
+    Bankers Conseco Life Insurance Company<br>
+    Policyholder Services<br>
+    PO Box 1918<br>
+    Carmel, IN 46082-9903</p>

@@ -1,0 +1,13 @@
+id: phone-number-1
+displayName: Customer Support
+template: contact-template
+fields:
+  Link:
+    title: Customer Support
+    text: 1-800-523-9100
+    href: tel:+18005239100
+  Icon: 
+    src: /data/media/images/call-blue.svg
+    alt: call-phone
+  Heading: Phone
+

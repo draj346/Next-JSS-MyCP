@@ -1,0 +1,8 @@
+id: item-125
+displayName: Whom do I contact with service or claims
+template: banner-template
+fields:
+  Heading: Whom do I contact with service or claims questions about my Colonial Penn Medicare Supplement policy?
+  id: item-125
+  Description: |
+   <p>For policies issued in 2010 and later, please call 1-800-800-2254 for more information. For all other policies, please refer to the information in this website.</p>  

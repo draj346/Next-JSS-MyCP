@@ -1,0 +1,13 @@
+id: item-2
+displayName: What information do I need to register at My ColonialPenn com
+template: banner-template
+fields:
+  Heading: What information do I need to register at My.ColonialPenn.com?
+  id: item-2
+  Description: |
+    <p>If you own a life insurance policy through the Colonial Penn® Program, you will be able to register. In addition to your name, address and phone, you will need:</p>
+    <ul>
+        <li>Your policy number (if you have multiple policies, you will only need one)</li>
+        <li>The date of birth of the person insured under the policy</li>
+        <li>A valid email address</li>
+    </ul>

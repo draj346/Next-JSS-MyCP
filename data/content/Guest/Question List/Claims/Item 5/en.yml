@@ -1,0 +1,8 @@
+id: item-1115
+displayName: What should I do if there is no estate
+template: banner-template
+fields:
+  Heading: What should I do if there is no estate?
+  id: item-1115
+  Description: |
+    <p>Most states have provisions for payment by affidavit, if benefits are payable to an estate, but the estate will not be subject to formal administration. Please contact us by <a href="#" data-bs-target="#collapse-item-1113" class="faq-jumplink">mail</a>, or <a href="/Customer-Service" target="_self">telephone</a>, and the appropriate instructions and/or forms will be provided.</p>

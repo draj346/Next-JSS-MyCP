@@ -1,0 +1,8 @@
+id: item-1112
+displayName: How can I tell who the beneficiary is
+template: banner-template
+fields:
+  Heading: How can I tell who the beneficiary is?
+  id: item-1112
+  Description: |
+    <p>The named beneficiary is shown on the original application/enrollment form attached to the policy/certificate, or it may be shown on the policy specification page. If a beneficiary designation was changed, an endorsed copy of the change was returned to the owner with the instruction that it be attached to the appropriate insurance documents. If you are unable to determine the beneficiary, you may request this information by <a href="#" data-bs-target="#collapse-item-1113" class="faq-jumplink">mail</a>, or <a href="/Customer-Service" target="_self">telephone</a>.</p>

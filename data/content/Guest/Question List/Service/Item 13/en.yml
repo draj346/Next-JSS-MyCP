@@ -1,0 +1,8 @@
+id: item-123
+displayName: Can I increase the amount of my life insurance coverage
+template: banner-template
+fields:
+  Heading: Can I increase the amount of my life insurance coverage?
+  id: item-123
+  Description: |
+   <p>Many of our customers are eligible to add to their coverage with us. It depends on your age, state of residence, and how much coverage you currently have. Please <a href="/Customer-Service" target="_self">call us</a> toll-free and one of our Customer Service specialists can help you.</p>  

@@ -1,0 +1,21 @@
+id: item-116
+displayName: Helpful payment tips
+template: banner-template
+fields:
+  Heading: Helpful payment tips
+  id: item-116
+  Description: |
+    <ul>
+      <li>Be sure to write your account number or case file number on your check or money order.</li>
+      <li>Mail your payment at least 10 days before it's due.</li>
+      <li>Making payment on more than one plan? Be sure to list all account numbers or case file number and include the billing notice for each account or case file.</li>
+      <li>Missing your bill or payment coupon? </li>
+    </ul>
+    <p><strong>Just write your account number(s) or case file number on your check or money order and mail it to:</strong></p>
+    <p>Colonial Penn Life Insurance Company<br>
+    P.O. Box 371850<br>
+    Pittsburgh, PA 15250-7850</p>
+    <p><strong>New York policyholders, please use this address:</strong><br>
+    Bankers Conseco Life Insurance Company<br>
+    P.O. Box 371854<br>
+    Pittsburgh, PA 15250-7854</p>

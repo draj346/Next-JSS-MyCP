@@ -1,0 +1,8 @@
+id: item-120
+displayName: How is a life insurance claim filed
+template: banner-template
+fields:
+  Heading: How is a life insurance claim filed?
+  id: item-120
+  Description: |
+   <p>Please click <a href="#" data-bs-target="#collapse-item-1113" class="faq-jumplink">here</a> to view questions and answers regarding our life insurance claims process.</p>  

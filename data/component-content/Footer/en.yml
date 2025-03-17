@@ -1,0 +1,13 @@
+id: footer-datasource-1
+name: Footer
+template: Footer
+fields:
+  Icon: 
+    src: /data/media/images/logo.webp
+    alt: MyCP
+  Links:
+    - id: footer-links-1
+    - id: footer-links-2
+    - id: footer-links-3
+    - id: footer-links-4
+    - id: footer-links-5

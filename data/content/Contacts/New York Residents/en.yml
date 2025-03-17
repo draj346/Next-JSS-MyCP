@@ -1,0 +1,13 @@
+id: phone-number-3
+displayName: New York Residents
+template: contact-template
+fields:
+  Link:
+    title: New York Residents
+    text: 1-800-323-4542
+    href: tel:+18003234542
+  Icon: 
+    src: /data/media/images/call-blue.svg
+    alt: call-phone
+  Heading: Phone
+

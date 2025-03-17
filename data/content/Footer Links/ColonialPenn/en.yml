@@ -1,0 +1,9 @@
+id: footer-links-4
+displayName: ColonialPenn
+template: link-template
+fields:
+  Link:
+    href: https://colonialpenn.com
+    target: _blank
+    text: ColonialPenn.com
+

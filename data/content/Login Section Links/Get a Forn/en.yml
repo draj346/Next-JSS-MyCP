@@ -1,0 +1,8 @@
+id: login-link-section-2
+displayName: Get a Form
+template: link-template
+fields:
+  Link:
+    href: /get-a-form
+    target: _self
+    text: Get a Form

@@ -1,0 +1,8 @@
+id: item-7
+displayName: Is it possible to register
+template: banner-template
+fields:
+  Heading: If the owner of the policy is a Trust or a Corporation, is it possible to register?
+  id: item-7
+  Description: |
+    <p>Registration is not available at this time if the owner of the policy is a Trust or a Corporation.</p> 

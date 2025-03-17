@@ -1,0 +1,9 @@
+id: customer-service-1
+displayName: Add Coverage
+template: customer-service-contact-template
+fields:
+  Title: Add Coverage
+  Phone:
+    - id: phone-number-2
+  Hour:
+    - id: hour-1

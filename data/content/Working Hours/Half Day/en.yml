@@ -1,0 +1,8 @@
+id: hour-2
+displayName: Half Day
+template: phone-template
+fields:
+  Title: Hours
+  Day: |
+    Monday–Friday:
+  Time: 8:30 AM–5:30 PM ET

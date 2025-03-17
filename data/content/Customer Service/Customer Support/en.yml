@@ -1,0 +1,9 @@
+id: customer-service-2
+displayName: Customer Support
+template: customer-service-contact-template
+fields:
+  Title: Customer Support
+  Phone:
+    - id: phone-number-1
+  Hour:
+    - id: hour-2

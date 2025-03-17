@@ -1,0 +1,8 @@
+id: item-1116
+displayName: How do I know if coverage is in force
+template: banner-template
+fields:
+  Heading: How do I know if coverage is in force?
+  id: item-1116
+  Description: |
+    <p>Coverage is considered to be in force, as of the effective date of the policy/certificate, if premium payments are current. Coverage may also be in effect, depending on the specific contract, if premium payments were discontinued and there is cash value sufficient to provide extended term insurance or reduced paid-up insurance under the non-forfeiture option outlined in the policy. Each policy, or certificate, should be reviewed for the specific non-forfeiture provisions. Of course, you may contact us by <a href="#" data-bs-target="#collapse-item-1113" class="faq-jumplink">mail</a>, or <a href="/Customer-Service" target="_self">telephone</a> to verify if coverage is in force. Also, you may simply submit a claim against the policy in question and we will advise you in writing if it is not in force.</p>

@@ -1,0 +1,8 @@
+id: footer-links-5
+displayName: cnoinc
+template: link-template
+fields:
+  Link:
+    href: https://cnoinc.com
+    target: _blank
+    text: Cnoinc.com

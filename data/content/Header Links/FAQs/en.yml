@@ -1,0 +1,10 @@
+id: header-links-2
+displayName: FAQs
+template: submenu-template
+fields:
+  Description: Have questions? Here you will find the answers
+  Link:
+    href: /faqs
+    target: _self
+    text: FAQs
+

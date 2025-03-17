@@ -1,0 +1,9 @@
+id: header-links-5
+displayName: Resources
+template: submenu-template
+fields:
+  Heading: Resources
+  Child:
+    - id: header-links-3
+    - id: header-links-2
+

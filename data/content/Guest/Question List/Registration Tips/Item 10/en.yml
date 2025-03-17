@@ -1,0 +1,8 @@
+id: item-10
+displayName: Can I still register
+template: banner-template
+fields:
+  Heading: I have a Colonial Penn Life Insurance policy and a Bankers Conseco Life Insurance policy, can I still register?
+  id: item-10
+  Description: |
+    <p>Yes. Policies issued in the state of New York are underwritten by Bankers Conseco Life Insurance Company, and in all other states they are issued by Colonial Penn Life. If you lived in New York when you purchased one policy, and a different state when you purchased another policy, you will need to register twice (using one policy from each company for each registration), and have two separate logins to view information for all of your policies.</p>

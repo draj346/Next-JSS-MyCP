@@ -1,0 +1,14 @@
+id: item-1
+displayName: Once I register what information about my policy will be available
+template: banner-template
+fields:
+  Heading: Once I register, what information about my policy will be available?
+  id: item-1
+  Description: |
+    <p>You will be able to see a list of all of your policies, with the following information for each policy:</p>
+    <ul>
+        <li>Coverage amount</li>
+        <li>Premium paid-to date</li>
+        <li>Cash value</li>
+        <li>Loan information</li>
+    </ul>

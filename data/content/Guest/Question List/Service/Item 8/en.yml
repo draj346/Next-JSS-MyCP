@@ -1,0 +1,8 @@
+id: item-118
+displayName: Can I just get one bill
+template: banner-template
+fields:
+  Heading: I have more than one policy, can I just get one bill?
+  id: item-118
+  Description: |
+   <p>Yes, depending on the type of coverage you have we may be able to combine your life insurance premium notices into one convenient, monthly statement. Please <a href="/Customer-Service" target="_self">call us</a> for details.</p>

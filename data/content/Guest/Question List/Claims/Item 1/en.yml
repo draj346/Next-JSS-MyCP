@@ -1,0 +1,9 @@
+id: item-1111
+displayName: How can I find the amount that will be paid
+template: banner-template
+fields:
+  Heading: How can I find the amount that will be paid?
+  id: item-1111
+  Description: |
+    <p>If coverage is in force, the death benefit payable is shown on the policy/certificate specification page that is a part of all contracts. Some policies have benefits that vary depending on how long the policy has been in effect when the insured dies. To determine if this is the case, check the amount of time that has passed from the effective date of the policy (also referred to as the policy date or issue date) to the date of death. The policy specification page will indicate the benefit payable for that duration.</p>
+    <p>Other factors that may affect the amount payable are policy loans, premium adjustments, and adjustments for misstatement of age. Furthermore, such benefit quotes are not binding on the company.</p>

@@ -1,0 +1,19 @@
+id: header-datasource-1
+name: Header
+template: Header
+fields:
+  Icon: 
+    src: /data/media/images/logo.webp
+    alt: MyCP
+  Search:
+    href: /search
+    target: _self
+    text: Search
+  Login:
+    href: https://ecsso.mycno.com/cpl/secure/login
+    target: _self
+    text: Login
+  Links:
+    - id: header-links-4
+    - id: header-links-5
+    - id: header-links-1

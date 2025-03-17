@@ -1,0 +1,9 @@
+id: item-117
+displayName: More than one insurance plan
+template: banner-template
+fields:
+  Heading: More than one insurance plan?
+  id: item-117
+  Description: |
+    <p>If you bought additional coverage, don't let your existing coverage lapse! Additional coverage is issued as a separate and distinct plan with a different account number. Usually, when you buy more than one policy from us we automatically combine your payments into one convenient monthly statement. If you are still receiving separate premium notices we may be able to combine them.</p>
+    <p><a href="/Customer-Service" target="_self">Call us</a> to see what your options are.</p>
