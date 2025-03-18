@@ -26,6 +26,8 @@ import 'assets/faq.css';
 import 'assets/contactUs.css';
 import 'assets/title.css';
 import 'assets/customerService.css';
+import 'assets/payment.css';
+import 'assets/formList.css';
 
 NProgress.configure({ showSpinner: false, trickleSpeed: 100 });
 

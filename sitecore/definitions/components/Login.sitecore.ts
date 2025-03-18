@@ -14,7 +14,11 @@ export default function Login(manifest: Manifest): void {
     fields: [
       { name: 'Login', type: CommonFieldTypes.SingleLineText, displayName: 'Login Label' },
       { name: 'Register', type: CommonFieldTypes.SingleLineText, displayName: 'Register Label' },
-      { name: 'ForgetPassword', type: CommonFieldTypes.SingleLineText, displayName: 'Forget Password Label' },
+      {
+        name: 'ForgetPassword',
+        type: CommonFieldTypes.SingleLineText,
+        displayName: 'Forget Password Label',
+      },
     ],
     inherits: ['banner-template'],
     /*

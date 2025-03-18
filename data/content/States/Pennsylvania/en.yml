@@ -1,0 +1,7 @@
+id: PA
+displayName: Pennsylvania
+template: key-value-template
+fields:
+  Key: PA
+  Value: Pennsylvania (PA)
+

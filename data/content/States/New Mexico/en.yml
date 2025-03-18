@@ -1,0 +1,7 @@
+id: NM
+displayName: New Mexico
+template: key-value-template
+fields:
+  Key: NM
+  Value: New Mexico (NM)
+

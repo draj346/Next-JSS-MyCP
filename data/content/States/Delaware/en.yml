@@ -1,0 +1,7 @@
+id: DE
+displayName: Delaware
+template: key-value-template
+fields:
+  Key: DE
+  Value: Delaware (DE)
+

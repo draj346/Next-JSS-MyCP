@@ -1,0 +1,7 @@
+id: WI
+displayName: Wisconsin
+template: key-value-template
+fields:
+  Key: WI
+  Value: Wisconsin (WI)
+

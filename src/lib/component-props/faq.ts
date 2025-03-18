@@ -9,7 +9,11 @@ export type FaqJumplinkItemTypes = {
 };
 
 export interface Question extends Item {
-  fields: { Heading: Field<string>; Description: Field<string>; id:  Field<string> } & Item['fields'];
+  fields: {
+    Heading: Field<string>;
+    Description: Field<string>;
+    id: Field<string>;
+  } & Item['fields'];
 }
 
 export interface FAQ extends Item {

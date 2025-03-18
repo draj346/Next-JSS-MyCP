@@ -1,0 +1,7 @@
+id: payment-options-link-2
+displayName: Automatic Electronic Funds Transfer
+template: banner-template
+fields:
+  Description: |
+    <p><a href="/Payment-Center/Automatic-Electronic-Funds-Transfer"><strong>Sign-up online to switch to recurring EFT billing</strong></a></p>
+    

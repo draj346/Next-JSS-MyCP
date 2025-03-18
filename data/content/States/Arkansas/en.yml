@@ -1,0 +1,7 @@
+id: AR
+displayName: Arkansas
+template: key-value-template
+fields:
+  Key: AR
+  Value: Arkansas (AR)
+

@@ -1,0 +1,7 @@
+id: AL
+displayName: Alabama
+template: key-value-template
+fields:
+  Key: AL
+  Value: Alabama (AL)
+

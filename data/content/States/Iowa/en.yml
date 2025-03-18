@@ -1,0 +1,7 @@
+id: IN
+displayName: Indiana
+template: key-value-template
+fields:
+  Key: IN
+  Value: Indiana (IN)
+

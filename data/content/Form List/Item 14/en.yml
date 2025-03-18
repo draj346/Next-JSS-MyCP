@@ -1,0 +1,10 @@
+id: form-list-14
+displayName: Claim Form for Life Insurance Death Benefits
+template: form-template
+fields:
+  File:
+    src: /data/media/Forms/claimrequest_pa.pdf
+    title: Claim Form for Life Insurance Death Benefits
+    displayName: Claim Form for Life Insurance Death Benefits
+  States:
+    - id: PA

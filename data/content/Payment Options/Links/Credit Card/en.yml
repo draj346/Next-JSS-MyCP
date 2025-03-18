@@ -1,0 +1,10 @@
+id: payment-options-link-4
+displayName: Credit Card
+template: banner-template
+fields:
+  Description: |
+    <p class="semibold h6">
+                    Not available for all plans in PA.
+                  </p>
+                  <p><a href="/Payment-Center/Credit-Card"><strong>Pay a current bill by credit card</strong></a></p>
+    

@@ -1,0 +1,7 @@
+id: payment-options-link-3
+displayName: Get a Form
+template: banner-template
+fields:
+  Description: |
+    <p><a href="/Get-a-Form"><strong>Download the Automatic Premium Payment  Deduction Authorization Form</strong></a><br>to complete and mail to us</p>
+    

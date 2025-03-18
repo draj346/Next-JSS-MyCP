@@ -1,0 +1,64 @@
+id: form-list-22
+displayName: |
+  Planner: Beneficiary Planner
+template: form-template
+fields:
+  File:
+    src: /data/media/Forms/CP-1011-FRM-0225_Fillable-Beneficiary-Planner_V2.pdf
+    title: |
+      Planner: Beneficiary Planner
+    displayName: |
+      Planner: Beneficiary Planner
+  States:
+    - id: AL
+    - id: AK
+    - id: AZ
+    - id: AR
+    - id: CA
+    - id: CO
+    - id: CT
+    - id: DE
+    - id: DC
+    - id: FL
+    - id: GA
+    - id: HI
+    - id: ID
+    - id: IL
+    - id: IN
+    - id: IA
+    - id: KS
+    - id: KY
+    - id: LA
+    - id: ME
+    - id: MD
+    - id: MA
+    - id: MI
+    - id: MN
+    - id: MS
+    - id: MO
+    - id: MT
+    - id: NE
+    - id: NV
+    - id: NH
+    - id: NJ
+    - id: NM
+    - id: NC
+    - id: ND
+    - id: OH
+    - id: OK
+    - id: OR
+    - id: PA
+    - id: RI
+    - id: SC
+    - id: SD
+    - id: TN
+    - id: TX
+    - id: UT
+    - id: VT
+    - id: VI
+    - id: VA
+    - id: WA
+    - id: WV
+    - id: WI
+    - id: WY
+    - id: NY

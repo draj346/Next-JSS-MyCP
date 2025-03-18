@@ -1,0 +1,7 @@
+id: GA
+displayName: Georgia
+template: key-value-template
+fields:
+  Key: GA
+  Value: Georgia (GA)
+

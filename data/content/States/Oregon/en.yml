@@ -1,0 +1,7 @@
+id: OR
+displayName: Oregon
+template: key-value-template
+fields:
+  Key: OR
+  Value: Oregon (OR)
+

@@ -1,0 +1,7 @@
+id: RI
+displayName: Rhode Island
+template: key-value-template
+fields:
+  Key: RI
+  Value: Rhode Island (RI)
+

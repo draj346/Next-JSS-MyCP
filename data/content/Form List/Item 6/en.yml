@@ -1,0 +1,14 @@
+id: form-list-6
+displayName: |
+  Booklet: Where to Go & What to Do After Losing a Loved One
+template: form-template
+fields:
+  File:
+    src: /data/media/Forms/where_to_go_ny.pdf
+    title: |
+      Booklet: Where to Go & What to Do After Losing a Loved One
+    displayName: |
+      Booklet: Where to Go & What to Do After Losing a Loved One
+  States:
+    - id: NY
+    

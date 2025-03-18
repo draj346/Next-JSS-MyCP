@@ -1,0 +1,7 @@
+id: MA
+displayName: Massachusetts
+template: key-value-template
+fields:
+  Key: MA
+  Value: Massachusetts (MA)
+

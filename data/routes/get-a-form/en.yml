@@ -21,5 +21,98 @@ fields:
 placeholders:
   jss-header:
     - id: header-datasource-1
+  jss-main:
+    - componentName: PageContainer
+      placeholders:
+        title-placeholder:
+          - componentName: Title
+            fields:
+              Heading: Get a Form
+              Description: |
+                Easily view, download and/or print the documents you need.
+              ComponentClass: section-light-blue-background
+              TitleClass: no-background
+        content-placeholder:
+          - componentName: FormList
+            fields:
+              Heading: Forms are specific to each state.
+              Description: Please select your state to get the forms for your state.
+              Forms:
+               - id: form-list-1
+               - id: form-list-2
+               - id: form-list-3
+               - id: form-list-4
+               - id: form-list-5
+               - id: form-list-6
+               - id: form-list-7
+               - id: form-list-8
+               - id: form-list-9
+               - id: form-list-10
+               - id: form-list-11
+               - id: form-list-12
+               - id: form-list-13
+               - id: form-list-14
+               - id: form-list-15
+               - id: form-list-16
+               - id: form-list-17
+               - id: form-list-18
+               - id: form-list-19
+               - id: form-list-20
+               - id: form-list-21
+               - id: form-list-22
+               - id: form-list-23
+              States:
+                - id: VA
+                - id: AL
+                - id: AK
+                - id: AZ
+                - id: AR
+                - id: CA
+                - id: CO
+                - id: CT
+                - id: DE
+                - id: DC
+                - id: FL
+                - id: GA
+                - id: HI
+                - id: ID
+                - id: IL
+                - id: IN
+                - id: IA
+                - id: KS
+                - id: KY
+                - id: LA
+                - id: ME
+                - id: MD
+                - id: MA
+                - id: MI
+                - id: MN
+                - id: MS
+                - id: MO
+                - id: MT
+                - id: NE
+                - id: NV
+                - id: NH
+                - id: NJ
+                - id: NM
+                - id: NC
+                - id: ND
+                - id: NY
+                - id: OH
+                - id: OK
+                - id: OR
+                - id: PA
+                - id: RI
+                - id: SC
+                - id: SD
+                - id: TN
+                - id: TX
+                - id: UT
+                - id: VT
+                - id: VI
+                - id: WA
+                - id: WV
+                - id: WI
+                - id: WY
   jss-footer:
     - id: footer-datasource-1

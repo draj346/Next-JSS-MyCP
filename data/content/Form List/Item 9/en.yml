@@ -1,0 +1,63 @@
+id: form-list-9
+displayName: Claim Form for Accidental Death
+template: form-template
+fields:
+  File:
+    src: /data/media/Forms/cpl_accdthg_0617.pdf
+    title: Claim Form for Accidental Death
+    displayName: Claim Form for Accidental Death
+  States:
+    - id: AZ
+    - id: AL
+    - id: AK
+    - id: AR
+    - id: CA
+    - id: CO
+    - id: CT
+    - id: DE
+    - id: DC
+    - id: FL
+    - id: GA
+    - id: HI
+    - id: ID
+    - id: IL
+    - id: IN
+    - id: IA
+    - id: KS
+    - id: KY
+    - id: LA
+    - id: ME
+    - id: MD
+    - id: MA
+    - id: MI
+    - id: MN
+    - id: MS
+    - id: MO
+    - id: MT
+    - id: NE
+    - id: NV
+    - id: NH
+    - id: NJ
+    - id: NM
+    - id: NY
+    - id: NC
+    - id: ND
+    - id: OH
+    - id: OK
+    - id: OR
+    - id: PA
+    - id: RI
+    - id: SC
+    - id: SD
+    - id: TN
+    - id: TX
+    - id: UT
+    - id: VT
+    - id: VI
+    - id: VA
+    - id: WA
+    - id: WV
+    - id: WI
+    - id: WY
+
+    

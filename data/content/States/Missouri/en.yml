@@ -1,0 +1,7 @@
+id: MO
+displayName: Missouri
+template: key-value-template
+fields:
+  Key: MO
+  Value: Missouri (MO)
+

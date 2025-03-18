@@ -1,0 +1,7 @@
+id: payment-options-link-5
+displayName: Direct Bill
+template: banner-template
+fields:
+  Description: |
+    <p> We'll mail you statements and you can pay by check or money order. For more information call our toll-free service line,<a href="tel:+18005239100">1-800-523-9100</a></p>
+    

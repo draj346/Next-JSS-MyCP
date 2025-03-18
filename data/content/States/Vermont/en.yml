@@ -1,0 +1,7 @@
+id: VT
+displayName: Vermont
+template: key-value-template
+fields:
+  Key: VT
+  Value: Vermont (VT)
+

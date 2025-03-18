@@ -1,0 +1,7 @@
+id: OK
+displayName: Oklahoma
+template: key-value-template
+fields:
+  Key: OK
+  Value: Oklahoma (OK)
+

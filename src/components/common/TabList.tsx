@@ -1,7 +1,7 @@
-import React, { isValidElement } from "react";
-import { Children } from "react";
-import Link from "next/link";
-import { TabTypes } from "lib/component-props/faq";
+import React, { isValidElement } from 'react';
+import { Children } from 'react';
+import Link from 'next/link';
+import { TabTypes } from 'lib/component-props/faq';
 
 type TabListTypes = {
   tabList: TabTypes[];
@@ -17,14 +17,14 @@ const TabList = ({ tabList, children, onClick }: TabListTypes) => (
           tabList.map((item, index) => (
             <li className="nav-item" role="presentation" key={index}>
               <Link
-                className={`nav-link ${index === 0 ? "active" : ""}`}
+                className={`nav-link ${index === 0 ? 'active' : ''}`}
                 id={item.key}
                 key={item.key}
                 data-bs-target={`#${item.href}`}
                 data-bs-toggle="tab"
                 role="tab"
                 href="/"
-                aria-selected={index === 0 ? "true" : "false"}
+                aria-selected={index === 0 ? 'true' : 'false'}
                 tabIndex={0}
                 onClick={onClick}
               >
@@ -38,7 +38,7 @@ const TabList = ({ tabList, children, onClick }: TabListTypes) => (
       {tabList.length > 0 &&
         tabList.map((item, index) => (
           <div
-            className={`tab-pane ${index === 0 ? "active show" : ""}`}
+            className={`tab-pane ${index === 0 ? 'active show' : ''}`}
             id={item.href}
             role="tabpanel"
             aria-labelledby={item.key}
@@ -51,7 +51,7 @@ const TabList = ({ tabList, children, onClick }: TabListTypes) => (
                     if (!isValidElement(child)) {
                       return null; // or handle non-element children
                     }
-                    return <>{child.key === item.key ? child : ""}</>;
+                    return <>{child.key === item.key ? child : ''}</>;
                   })}
                 </div>
               </div>

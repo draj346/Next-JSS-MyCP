@@ -1,0 +1,8 @@
+id: payment-options-3
+displayName: Direct Bill
+template: payment-options-template
+fields:
+  Heading: Direct Bill
+  Options:
+    - id: payment-options-link-5
+    

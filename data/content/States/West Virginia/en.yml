@@ -1,0 +1,7 @@
+id: WV
+displayName: West Virginia
+template: key-value-template
+fields:
+  Key: WV
+  Value: West Virginia (WV)
+

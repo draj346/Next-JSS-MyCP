@@ -1,0 +1,14 @@
+id: form-list-4
+displayName: |
+  Booklet: Grief Brochure
+template: form-template
+fields:
+  File:
+    src: /data/media/Forms/grief_brochure_ny.pdf
+    title: |
+      Booklet: Grief Brochure
+    displayName: |
+      Booklet: Grief Brochure
+  States:
+    - id: NY
+  

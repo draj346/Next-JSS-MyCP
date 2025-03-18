@@ -36,4 +36,4 @@ export type CustomLinkTypes = {
 };
 
 export type CollapseType = typeof import('bootstrap').Collapse;
-export type TabType = typeof import("bootstrap").Tab;
+export type TabType = typeof import('bootstrap').Tab;

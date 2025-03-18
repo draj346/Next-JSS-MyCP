@@ -1,0 +1,8 @@
+id: payment-options-2
+displayName: Credit Card Payment
+template: payment-options-template
+fields:
+  Heading: Credit Card Payment
+  Options:
+    - id: payment-options-link-4
+    

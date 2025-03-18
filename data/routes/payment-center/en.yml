@@ -21,5 +21,28 @@ fields:
 placeholders:
   jss-header:
     - id: header-datasource-1
+  jss-main:
+    - componentName: PageContainer
+      placeholders:
+        title-placeholder:
+          - componentName: Title
+            fields:
+              Heading: Make a Payment
+              Description: |
+                You can make or schedule an online payment, update payment methods and more.
+              ComponentClass: section-light-blue-background
+              TitleClass: title-left
+        content-placeholder:
+          - componentName: PaymentCenter
+            fields:
+              Disclaimer: |
+                <p><em>*For Medicare Supplement plans issued in 2010 or later, please call
+                <a href="tel:+18008002254"></a></em><a href="tel:+18008002254"><em>1-800-800-2254</em></a><em><a href="tel:+18008002254"></a>
+                for customer service for your policy. You cannot pay online at this website.</em>
+                </p>
+              PaymentOptions:
+                - id: payment-options-1
+                - id: payment-options-2
+                - id: payment-options-3
   jss-footer:
     - id: footer-datasource-1

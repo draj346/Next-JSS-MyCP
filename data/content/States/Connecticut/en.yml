@@ -1,0 +1,7 @@
+id: CT
+displayName: Connecticut
+template: key-value-template
+fields:
+  Key: CT
+  Value: Connecticut (CT)
+

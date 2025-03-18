@@ -1,0 +1,7 @@
+id: MI
+displayName: Michigan
+template: key-value-template
+fields:
+  Key: MI
+  Value: Michigan (MI)
+

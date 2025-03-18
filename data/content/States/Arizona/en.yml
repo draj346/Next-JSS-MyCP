@@ -1,0 +1,7 @@
+id: AZ
+displayName: Arizona
+template: key-value-template
+fields:
+  Key: AZ
+  Value: Arizona (AZ)
+

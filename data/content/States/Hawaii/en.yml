@@ -1,0 +1,7 @@
+id: HI
+displayName: Hawaii
+template: key-value-template
+fields:
+  Key: HI
+  Value: Hawaii (HI)
+

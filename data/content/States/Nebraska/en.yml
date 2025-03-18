@@ -1,0 +1,7 @@
+id: NE
+displayName: Nebraska
+template: key-value-template
+fields:
+  Key: NE
+  Value: Nebraska (NE)
+

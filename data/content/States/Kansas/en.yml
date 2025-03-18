@@ -1,0 +1,7 @@
+id: KS
+displayName: Kansas
+template: key-value-template
+fields:
+  Key: KS
+  Value: Kansas (KS)
+

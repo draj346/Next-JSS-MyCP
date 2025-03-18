@@ -1,0 +1,7 @@
+id: MN
+displayName: Minnesota
+template: key-value-template
+fields:
+  Key: MN
+  Value: Minnesota (MN)
+

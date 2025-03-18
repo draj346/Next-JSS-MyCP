@@ -1,0 +1,7 @@
+id: WA
+displayName: Washington
+template: key-value-template
+fields:
+  Key: WA
+  Value: Washington (WA)
+

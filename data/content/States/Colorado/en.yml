@@ -1,0 +1,7 @@
+id: CO
+displayName: Colorado
+template: key-value-template
+fields:
+  Key: CO
+  Value: Colorado (CO)
+

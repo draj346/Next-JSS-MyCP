@@ -1,0 +1,7 @@
+id: SC
+displayName: South Carolina
+template: key-value-template
+fields:
+  Key: SC
+  Value: South Carolina (SC)
+

@@ -1,0 +1,7 @@
+id: ID
+displayName: Idaho
+template: key-value-template
+fields:
+  Key: ID
+  Value: Idaho (ID)
+

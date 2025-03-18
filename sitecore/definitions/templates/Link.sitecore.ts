@@ -13,6 +13,6 @@ export default function LinkComponent(manifest: Manifest): void {
     name: 'link-template',
     id: 'link-template',
     fields: [{ name: 'Link', type: CommonFieldTypes.GeneralLink, section: 'Link Configuration' }],
-    inherits: ['image-template']
+    inherits: ['image-template'],
   });
 }

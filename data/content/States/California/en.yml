@@ -1,0 +1,7 @@
+id: CA
+displayName: California
+template: key-value-template
+fields:
+  Key: CA
+  Value: California (CA)
+

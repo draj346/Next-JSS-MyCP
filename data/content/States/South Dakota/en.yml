@@ -1,0 +1,7 @@
+id: SD
+displayName: South Dakota
+template: key-value-template
+fields:
+  Key: SD
+  Value: South Dakota (SD)
+

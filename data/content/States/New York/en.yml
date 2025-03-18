@@ -1,0 +1,7 @@
+id: NY
+displayName: New York
+template: key-value-template
+fields:
+  Key: NY
+  Value: New York (NY)
+

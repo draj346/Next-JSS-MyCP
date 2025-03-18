@@ -1,0 +1,11 @@
+id: payment-options-1
+displayName: Electronic Funds Transfer
+template: payment-options-template
+fields:
+  Heading: Electronic Funds Transfer
+  SubHeading: EFT (automatic bank account deduction)
+  Options:
+    - id: payment-options-link-1
+    - id: payment-options-link-2
+    - id: payment-options-link-3
+    

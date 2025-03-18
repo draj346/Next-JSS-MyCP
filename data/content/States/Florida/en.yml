@@ -1,0 +1,7 @@
+id: FL
+displayName: Florida
+template: key-value-template
+fields:
+  Key: FL
+  Value: Florida (FL)
+

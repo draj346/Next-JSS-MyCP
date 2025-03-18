@@ -1,0 +1,64 @@
+id: form-list-19
+displayName: |
+  Guide: Life Death Benefit Helpful Terms
+template: form-template
+fields:
+  File:
+    src: /data/media/Forms/198439-0720_other_helpful_terms_cp.pdf
+    title: |
+      Guide: Life Death Benefit Helpful Terms
+    displayName: |
+      Guide: Life Death Benefit Helpful Terms
+  States:
+    - id: WY
+    - id: WI
+    - id: WV
+    - id: WA
+    - id: VA
+    - id: VI
+    - id: VT
+    - id: UT
+    - id: TX
+    - id: TN
+    - id: SD
+    - id: SC
+    - id: RI
+    - id: PA
+    - id: OR
+    - id: OK
+    - id: OH
+    - id: ND
+    - id: NC
+    - id: NM
+    - id: NJ
+    - id: NH
+    - id: NV
+    - id: NE
+    - id: MT
+    - id: MO
+    - id: MS
+    - id: MN
+    - id: MI
+    - id: MA
+    - id: MD
+    - id: ME
+    - id: LA
+    - id: KY
+    - id: KS
+    - id: IA
+    - id: IN
+    - id: IL
+    - id: ID
+    - id: HI
+    - id: GA
+    - id: FL
+    - id: DC
+    - id: DE
+    - id: CT
+    - id: CO
+    - id: CA
+    - id: AR
+    - id: AZ
+    - id: AK
+    - id: AL
+    - id: NY

@@ -1,0 +1,7 @@
+id: NC
+displayName: North Carolina
+template: key-value-template
+fields:
+  Key: NC
+  Value: North Carolina (NC)
+

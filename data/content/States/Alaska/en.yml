@@ -1,0 +1,7 @@
+id: AK
+displayName: Alaska
+template: key-value-template
+fields:
+  Key: AK
+  Value: Alaska (AK)
+

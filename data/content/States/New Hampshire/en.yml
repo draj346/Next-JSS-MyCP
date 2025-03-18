@@ -1,0 +1,7 @@
+id: NH
+displayName: New Hampshire
+template: key-value-template
+fields:
+  Key: NH
+  Value: New Hampshire (NH)
+

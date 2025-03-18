@@ -1,0 +1,7 @@
+id: NV
+displayName: Nevada
+template: key-value-template
+fields:
+  Key: NV
+  Value: Nevada (NV)
+

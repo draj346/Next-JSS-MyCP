@@ -1,0 +1,11 @@
+id: form-list-8
+displayName: Change of Beneficiary Form
+template: form-template
+fields:
+  File:
+    src: /data/media/Forms/bene_change_request_bclic_lp29369_0910.pdf
+    title: Change of Beneficiary Form
+    displayName: Change of Beneficiary Form
+  States:
+    - id: NY
+    

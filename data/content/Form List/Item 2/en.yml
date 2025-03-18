@@ -1,0 +1,10 @@
+id: form-list-2
+displayName: Automatic Premium Payment Deduction Form
+template: form-template
+fields:
+  File:
+    src: /data/media/Forms/eft_auth_bclic_07_10.pdf
+    title: Automatic Premium Payment Deduction Form
+    displayName: Automatic Premium Payment Deduction Form
+  States:
+    - id: NY

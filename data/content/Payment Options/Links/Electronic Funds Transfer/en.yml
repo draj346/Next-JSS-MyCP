@@ -1,0 +1,7 @@
+id: payment-options-link-1
+displayName: Electronic Funds Transfer
+template: banner-template
+fields:
+  Description: |
+    <p><a href="/Payment-Center/Electronic-Funds-Transfer"><strong>Pay a current bill with EFT</strong></a></p>
+    
